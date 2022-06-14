@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jacomago
-- 👀 I’m interested in rust, angular, combinatorics, Metric Number theory and writing fiction.
+- 👀 I’m interested in rust, flutter, combinatorics, Metric Number theory and writing fiction.
 - 🌱 I’m currently learning how to write fiction and build a full stack web application.
 - 💞️ I’m looking to collaborate on building mobile applications.
 
